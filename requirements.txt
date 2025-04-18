@@ -1,0 +1,51 @@
+# Core
+pandas
+numpy
+datetime
+python-dotenv
+
+# Data APIs
+ccxt
+pytrends
+requests
+
+# Feature Engineering
+ta
+scikit-learn
+xgboost
+lightgbm
+optuna        
+joblib
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP & Sentiment
+vaderSentiment
+openai
+gnewsclient
+
+# Explainability
+shap
+
+# Backtesting
+bt
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Dashboard & Web
+Flask
+gunicorn
+
+# Alerts & Automation
+python-telegram-bot
+fpdf
+APScheduler
+
+# Dev & Infra
+gitpython
+pre-commit
